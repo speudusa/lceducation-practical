@@ -64,8 +64,6 @@ within a program, but it also allows you to share that behavior across files
 and even different projects. This becomes critically important when you start
 working on bigger programs that consist of a large number of files.
 
-You will explore this idea in the :ref:`Modules chapter <modules-index>`.
-
 Functions Save Millions of Lives Every Day
 ------------------------------------------
 

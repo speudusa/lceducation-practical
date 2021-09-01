@@ -5,7 +5,7 @@ Setting Up Node
 
 Installing Node on your computer also installs the NPM Command Line Interface
 (CLI), which allows you to run specialized commands in the
-:ref:`terminal <terminal-chapter>`.
+terminal.
 
 #. Follow this link to the `Node website <https://nodejs.org/en/download/>`__,
    and examine the selection screen:

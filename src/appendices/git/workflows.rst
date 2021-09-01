@@ -8,7 +8,6 @@ Git Workflows
 
 This cheatsheet covers basic workflows for local and remote Git repositories.
 
-For details on the Git commands mentioned, or on creating and cloning repositories, revisit the chapter on :ref:`git-chapter`.
 
 .. _single-dev-branch:
 

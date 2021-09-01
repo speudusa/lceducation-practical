@@ -14,21 +14,5 @@ Exercise Solutions
    loops
    functions
    more-on-functions
-   objects-and-math
-   modules
-   unit-testing
-   exceptions
-   classes
-   terminal
-   html
-   css
-   git
-   dom
-   forms
-   JSON
-   fetch
-   typescript
-   angular-lsn1
-   angular-lsn2
-   angular-lsn3
+
    
