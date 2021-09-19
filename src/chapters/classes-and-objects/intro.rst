@@ -28,14 +28,13 @@ If you were to code your character using your current skills, you might have som
    let playerJump = 2;
    //... pants, eyecolor, length of hair, or even style, etc.
 
-   function playerJump(){
-      if (this.shoes == "ballet slippers"){
-      return 5;
+   function playerJumpStats(shoes){
+      if (shoes === "ballet slippers"){
+      playerJump +=5;
+      return  playerJump;
       }
       //... etc for other options...
    }
-
-   shoeSpecs(playerShoes);
 
    //This is a very small part of code, and for one player.  
 
