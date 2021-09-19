@@ -16,6 +16,7 @@ Chapters
    chapters/loops/index
    chapters/functions/index
    chapters/more-on-functions/index
+   chapters/classes-and-objects/index
    chapters/booster-rockets/index
 
 .. toctree::
